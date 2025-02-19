@@ -1,0 +1,8 @@
+(
+  build ld
+    (list
+      (build cc "fe/src/fe.c" "fe.o" "-Ife/src")
+      (build cc "feb.c" "feb.o" "-Ife/src")
+    )
+  "feb"
+)
