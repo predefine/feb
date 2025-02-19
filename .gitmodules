@@ -1,0 +1,3 @@
+[submodule "fe"]
+	path = fe
+	url = https://github.com/rxi/fe
