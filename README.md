@@ -4,7 +4,7 @@ Easy to understand, simple to use suckless-style build system, based on embeddab
 
 **How to build?**
 
-Just run the build.sh script. If it is run as a not-root user, feb will be compiled without installation into the system. If it is run as root, then the feb binary will be copied to /bin
+run the build.sh script.
    
 **How to use?**
 
