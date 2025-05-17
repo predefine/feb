@@ -4,7 +4,7 @@ Easy to understand, simple to use suckless-style build system, based on embeddab
 
 **How to build?**
 
-run the build.sh script.
+Run the bootstrap.sh script.
    
 **How to use?**
 
